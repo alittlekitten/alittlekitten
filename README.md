@@ -30,6 +30,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 - Naver : https://blog.naver.com/dlscjs8646
 - Tistory : https://ssocoit.tistory.com/
 - 2021.02~ KHU Challengers Project (Backend-DB)
+- 2021.04~05 NomadCoder VanillaJS Challenge Project 
 
 <hr />
 <div align="center">
