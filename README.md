@@ -20,16 +20,16 @@ I'm interested in C++/Python PS, HTML5/CSS3, and Django!
 If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 
 #### - ⚡ Experience
-- My Lovely Room : 3rd Prize in 2019 Newbieton at Google Startup Campus in Seoul
+- My Lovely Room : 3rd Prize in 2019 Newbieton at Google Startup Campus in Seoul - Python / Django
 - 2019 10 weeks Python Class Teacher with 10 students at KyungHee Univ. Seoul Campus
-- Alcoholgame : 2nd Prize in 2019 Uselesston at KyungHee Univ. Space 21
-- TurningPoint : 4th Prize in 2019 Start Up The Dream
+- Alcoholgame : 2nd Prize in 2019 Uselesston at KyungHee Univ. Space 21 - Python / Django
+- TurningPoint : 4th Prize in 2019 Start Up The Dream - Python / Django
 - 2020 8th Likelion KyungHee Univ. Development & Teaching Staff
 - 2020.09~11 Python Study Group 'Appolpie' Assistant
 - 2020.09~ Engineering Blog(Korean)
 - Naver : https://blog.naver.com/dlscjs8646
 - Tistory : https://ssocoit.tistory.com/
-- 2021.02~ KHU Challengers Project (Backend-DB)
+- 2021.02~ KHU Challengers Project (Main : Backend-DB / Sub Frontend) - Node.js / React.js
 - 2021.04~05 NomadCoder VanillaJS Challenge Project 
 
 <hr />
