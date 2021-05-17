@@ -25,7 +25,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 - Alcoholgame : 2nd Prize in 2019 Uselesston at KyungHee Univ. Space 21 - Python / Django
 - TurningPoint : 4th Prize in 2019 Start Up The Dream - Python / Django
 - 2020 8th Likelion KyungHee Univ. Development & Teaching Staff
-- 2020.09~11 Python Study Group 'Appolpie' Assistant
+- 2020.09~11 Python Study Group 'Appolpie' Assistant - Python / Jupyter Notebook
 - 2020.09~ Engineering Blog(Korean)
 - Naver : https://blog.naver.com/dlscjs8646
 - Tistory : https://ssocoit.tistory.com/
