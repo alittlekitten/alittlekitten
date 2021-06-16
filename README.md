@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Seokho Oh who is currently attending KyungHee Univ.
-I'm interested in C++/Python PS, HTML5/CSS3, and Django!
-If you contact me, please leave me a message! (dlscjs8646@gmail.com)
+I'm Seokho Oh who is currently attending KyungHee Univ.<br>
+I'm interested in C++/Python PS, HTML5/CSS3, and Django!<br>
+If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
 
-👩‍🎓 Kyunghee Univ. Economic / Computer Engineering(a minor)
-🌱 WEB BACKEND DEVELOPER
-⚡ KHU Challengers BACK-END DEVELOPMENT TEAM
+👨‍🎓 <b>Kyunghee Univ.</b> Economic / Computer Engineering(a minor)<br>
+🌱 <b>WEB BACK-END</b> DEVELOPER<br>
+📝 <b>KHU Challengers</b> BACK-END DEVELOPMENT TEAM<br>
 
 #### - ⚡ Experience
 - My Lovely Room : 3rd Prize in 2019 Newbieton at Google Startup Campus in Seoul - Python / Django
@@ -31,8 +31,8 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 - 2020 8th Likelion KyungHee Univ. Development & Teaching Staff
 - 2020.09~11 Python Study Group 'Appolpie' Assistant - Python / Jupyter Notebook
 - 2020.09~ Engineering Blog(Korean)
-- Naver : https://blog.naver.com/dlscjs8646
-- Tistory : https://ssocoit.tistory.com/
+  - Tistory : https://ssocoit.tistory.com/
+  - Naver : https://blog.naver.com/dlscjs8646
 - 2021.02~ KHU Challengers Project (Main : Backend-DB / Sub Frontend) - Node.js / React.js
 - 2021.04~05 NomadCoder VanillaJS Challenge Project (Chrome App Clone Coding)
 
