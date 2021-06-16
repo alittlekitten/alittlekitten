@@ -34,7 +34,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
   - Tistory : https://ssocoit.tistory.com/
   - Naver : https://blog.naver.com/dlscjs8646
 - 2021.02~ KHU Challengers Project (Main : Backend-DB / Sub Frontend) - Node.js / React.js
-- 2021.04~05 NomadCoder VanillaJS Challenge Project (Chrome App Clone Coding)
+- 2021.04~05 NomadCoder VanillaJS Challenge Project
 
 <hr />
 <div align="center">
