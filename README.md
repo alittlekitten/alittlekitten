@@ -19,6 +19,10 @@ I'm Seokho Oh who is currently attending KyungHee Univ.
 I'm interested in C++/Python PS, HTML5/CSS3, and Django!
 If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 
+👩‍🎓 Kyunghee Univ. Economic / Computer Engineering(a minor)
+🌱 WEB BACKEND DEVELOPER
+⚡ KHU Challengers BACK-END DEVELOPMENT TEAM
+
 #### - ⚡ Experience
 - My Lovely Room : 3rd Prize in 2019 Newbieton at Google Startup Campus in Seoul - Python / Django
 - 2019 10 weeks Python Class Teacher with 10 students at KyungHee Univ. Seoul Campus
@@ -30,7 +34,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 - Naver : https://blog.naver.com/dlscjs8646
 - Tistory : https://ssocoit.tistory.com/
 - 2021.02~ KHU Challengers Project (Main : Backend-DB / Sub Frontend) - Node.js / React.js
-- 2021.04~05 NomadCoder VanillaJS Challenge Project 
+- 2021.04~05 NomadCoder VanillaJS Challenge Project (Chrome App Clone Coding)
 
 <hr />
 <div align="center">
