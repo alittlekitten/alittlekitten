@@ -19,7 +19,7 @@ I'm Seokho Oh who is currently attending KyungHee Univ.<br>
 I'm interested in C++/Python PS, HTML5/CSS3, and Django!<br>
 If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
 
-👨‍🎓 <b>Kyunghee Univ.</b> Economic / Computer Engineering(a minor)<br>
+👨‍🎓 <b>Kyunghee Univ.</b> Economic(a major) / Computer Engineering(a minor)<br>
 🌱 <b>WEB BACK-END</b> DEVELOPER<br>
 📝 <b>KHU Challengers</b> BACK-END DEVELOPMENT TEAM<br>
 
