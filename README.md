@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Seokho Oh who is currently attending KyungHee Univ.<br>
-I'm interested in C++/Python PS, HTML5/CSS3, and Django!<br>
+I'm interested in C++/Python PS, Java/HTML5/CSS3/JS, and Django!<br>
 If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
 
 👨‍🎓 <b>Kyunghee Univ.</b> Economic(a major) / Computer Engineering(a minor)<br>
