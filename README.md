@@ -36,6 +36,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
   - Naver(sub) : https://blog.naver.com/dlscjs8646
 - 2021.02~ KHU Challengers Project (Main : Backend-DB / Sub Frontend) - Node.js / React.js
 - 2021.04~05 NomadCoder VanillaJS Challenge Project
+- 2021.07~ Naver BoostCamp 6th - Web Fullstack Course
 
 #### - 🏹 Postscript
 티스토리 블로그에 많은 것들을 기록하고 있습니다.<br>
