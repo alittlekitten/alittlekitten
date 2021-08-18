@@ -24,6 +24,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
 📝 <b>KHU Challengers</b> BACK-END DEVELOPMENT TEAM<br>
 
 #### - ⚡ Experience
+- 2019 7th Likelion KyungHee Univ. Student
 - My Lovely Room : 3rd Prize in 2019 Newbieton at Google Startup Campus in Seoul - Python / Django
 - 2019 10 weeks Python Class Teacher with 10 students at KyungHee Univ. Seoul Campus
 - Alcoholgame : 2nd Prize in 2019 Uselesston at KyungHee Univ. Space 21 - Python / Django
