@@ -44,10 +44,15 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
 티스토리 블로그에 많은 것들을 기록하고 있습니다.<br>
 행복을 주는 개발자가 되고 싶습니다.<br>
 
+#### - 🥜 Algorithm
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=evade)](https://solved.ac/evade)
+
 
 <hr />
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falittlekitten&count_bg=%2353A27B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
 </div>
 <hr />
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=evade)](https://solved.ac/evade)
+
+
