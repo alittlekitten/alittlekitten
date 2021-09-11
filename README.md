@@ -50,3 +50,4 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falittlekitten&count_bg=%2353A27B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
 </div>
 <hr />
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=evade)](https://solved.ac/evade)
