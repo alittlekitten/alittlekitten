@@ -34,7 +34,6 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
 - 2020.09~11 Python Study Group 'Appolpie' Assistant - Python / Jupyter Notebook
 - 2020.09~ Engineering Blog(Korean)
   - Tistory(main) : https://ssocoit.tistory.com/
-  - Naver(sub) : https://blog.naver.com/dlscjs8646
 - 2021.02~ KHU Challengers Project (Main : Backend & DB / Sub : Frontend) - Node.js / React.js (TBD)
 - 2021.04~05 NomadCoder VanillaJS Challenge Project
 - 2021.07~08 Naver boostcamp 6th Challenge - Web Fullstack Course
