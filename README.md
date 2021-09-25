@@ -24,12 +24,12 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
 📝 <b>KHU Challengers</b> BACK-END DEVELOPMENT TEAM<br>
 
 #### - ⚡ Experience
-- 2019 7th Likelion KyungHee Univ. Student
+- 2019.01~12 7th Likelion KyungHee Univ. Student
 - My Lovely Room : 3rd Prize in 2019 Newbiethon at Google Startup Campus in Seoul - Python / Django
-- 2019 10 weeks Python Class Teacher with 10 students at KyungHee Univ. Seoul Campus
+- 2019.06~09 10 weeks Python Class Teacher with 10 students at KyungHee Univ. Seoul Campus
 - Alcoholgame : 2nd Prize in 2019 Uselessthon at KyungHee Univ. Space 21 - Python / Django
-- TurningPoint team : Participated in Likelion 7th Official Hackerthon / 4th Prize in 2019 Start Up The Dream - Python / Djang
-- 2020 8th Likelion KyungHee Univ. Development & Teaching Staff
+- TurningPoint team : Participated in Likelion 7th Official Hackerthon / 4th Prize in 2019 Start Up The Dream - Python / Django
+- 2020.01~12 8th Likelion KyungHee Univ. Development & Teaching Staff
 - Ssocoanimal : AI Animalface Test with Google Teachable Machine (https://ssocoanimal.netlify.app/)
 - 2020.09~11 Python Study Group 'Appolpie' Assistant - Python / Jupyter Notebook
 - 2021.01~ Engineering Blog(Korean)
@@ -38,6 +38,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
 - 2021.04~05 NomadCoder VanillaJS Challenge Project
 - 2021.07~08 Naver boostcamp 6th Challenge - Web Fullstack Course
 - 2021.08~ Naver boostcamp 6th Membership - Web Fullstack Course
+- MatjomBolle : Participated in Naver Bookathon - (FE/BE) VanillaJS / node.js (http://want-some-taste.o-r.kr:3000/)
 
 #### - 🏹 Postscript
 티스토리 블로그에 많은 것들을 기록하고 있습니다.<br>
@@ -53,5 +54,3 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falittlekitten&count_bg=%2353A27B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
 </div>
 <hr />
-
-
