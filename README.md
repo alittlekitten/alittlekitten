@@ -30,7 +30,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
 - Alcoholgame : 2nd Prize in 2019 Uselesston at KyungHee Univ. Space 21 - Python / Django
 - TurningPoint : 4th Prize in 2019 Start Up The Dream - Python / Django
 - 2020 8th Likelion KyungHee Univ. Development & Teaching Staff
-- Ssocoanimal : AI Animalface Test with Google Teachable machine (https://ssocoanimal.netlify.app/)
+- Ssocoanimal : AI Animalface Test with Google Teachable achine (https://ssocoanimal.netlify.app/)
 - 2020.09~11 Python Study Group 'Appolpie' Assistant - Python / Jupyter Notebook
 - 2020.09~ Engineering Blog(Korean)
   - Tistory(main) : https://ssocoit.tistory.com/
