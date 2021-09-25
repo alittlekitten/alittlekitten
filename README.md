@@ -25,14 +25,14 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
 
 #### - ⚡ Experience
 - 2019 7th Likelion KyungHee Univ. Student
-- My Lovely Room : 3rd Prize in 2019 Newbieton at Google Startup Campus in Seoul - Python / Django
+- My Lovely Room : 3rd Prize in 2019 Newbiethon at Google Startup Campus in Seoul - Python / Django
 - 2019 10 weeks Python Class Teacher with 10 students at KyungHee Univ. Seoul Campus
-- Alcoholgame : 2nd Prize in 2019 Uselesston at KyungHee Univ. Space 21 - Python / Django
-- TurningPoint : 4th Prize in 2019 Start Up The Dream - Python / Django
+- Alcoholgame : 2nd Prize in 2019 Uselessthon at KyungHee Univ. Space 21 - Python / Django
+- TurningPoint team : Participated in Likelion 7th Official Hackerthon / 4th Prize in 2019 Start Up The Dream - Python / Djang
 - 2020 8th Likelion KyungHee Univ. Development & Teaching Staff
 - Ssocoanimal : AI Animalface Test with Google Teachable Machine (https://ssocoanimal.netlify.app/)
 - 2020.09~11 Python Study Group 'Appolpie' Assistant - Python / Jupyter Notebook
-- 2020.09~ Engineering Blog(Korean)
+- 2021.01~ Engineering Blog(Korean)
   - Tistory(main) : https://ssocoit.tistory.com/
 - 2021.02~ KHU Challengers Project (Main : Backend & DB / Sub : Frontend) - Node.js / React.js (TBD)
 - 2021.04~05 NomadCoder VanillaJS Challenge Project
