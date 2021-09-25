@@ -25,20 +25,27 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
 
 #### - ⚡ Experience
 - 2019.01~12 7th Likelion KyungHee Univ. Student
-- 2019.05 **My Lovely Room** : 3rd Prize in 2019 Newbiethon at Google Startup Campus in Seoul - Python / Django
+- 2019.05 **My Lovely Room**
+  - 3rd Prize in 2019 Newbiethon at Google Startup Campus in Seoul - Python / Django
 - 2019.06~09 10 weeks Python Class Teacher with 10 students at KyungHee Univ. Seoul Campus
-- 2019.06 **Alcoholgame** : 2nd Prize in 2019 Uselessthon at KyungHee Univ. Space 21 - Python / Django
-- 2019.07~11 **TurningPoint** : Participated in Likelion 7th Official Hackerthon / 4th Prize in 2019 Start Up The Dream - Python / Django
+- 2019.06 **Alcoholgame**
+  - 2nd Prize in 2019 Uselessthon at KyungHee Univ. Space 21 - Python / Django
+- 2019.07~11 **TurningPoint** 
+  - Participated in Likelion 7th Official Hackerthon
+  - 4th Prize in 2019 Start Up The Dream - Python / Django
 - 2020.01~12 8th Likelion KyungHee Univ. Development & Teaching Staff
-- 2020.08 **Ssocoanimal** : AI Animalface Test with Google Teachable Machine (https://ssocoanimal.netlify.app/)
+- 2020.08 **Ssocoanimal**
+  - AI Animalface Test with Google Teachable Machine (https://ssocoanimal.netlify.app/)
 - 2020.09~11 Python Study Group 'Appolpie' Assistant - Python / Jupyter Notebook
 - 2021.01~ Engineering Blog(Korean)
   - Tistory(main) : https://ssocoit.tistory.com/
-- 2021.02~ **KHU Challengers(SuKhu)** (Main : Backend & DB / Sub : Frontend) - Node.js / React.js (TBD)
+- 2021.02~ **KHU Challengers(SuKhu)**
+  - (Main : Backend & DB / Sub : Frontend) - Node.js / React.js (TBD)
 - 2021.04~05 NomadCoder VanillaJS Challenge Project
 - 2021.07~08 Naver boostcamp 6th Challenge - Web Fullstack Course
 - 2021.08~ Naver boostcamp 6th Membership - Web Fullstack Course
-- 2021.09 **MatjomBolle** : Participated in Naver Bookathon - (FE/BE) VanillaJS / node.js (http://want-some-taste.o-r.kr:3000/)
+- 2021.09 **MatjomBolle**
+  - Participated in Naver Bookathon - (FE/BE) VanillaJS / node.js (http://want-some-taste.o-r.kr:3000/)
 
 #### - 🏹 Postscript
 티스토리 블로그에 많은 것들을 기록하고 있습니다.<br>
