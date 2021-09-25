@@ -42,10 +42,10 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
 - 2021.02~ **KHU Challengers(SuKhu)**
   - (Main : Backend & DB / Sub : Frontend) - Node.js / React.js (TBD)
 - 2021.04~05 NomadCoder VanillaJS Challenge Project
-- 2021.07~08 Naver boostcamp 6th Challenge - Web Fullstack Course
-- 2021.08~ Naver boostcamp 6th Membership - Web Fullstack Course
+- 2021.07~08 NAVER boostcamp 6th Challenge - Web Fullstack Course
+- 2021.08~ NAVER boostcamp 6th Membership - Web Fullstack Course
 - 2021.09 **MatjomBolle**
-  - Participated in Naver Bookathon - (Full Stack) VanillaJS / node.js (http://want-some-taste.o-r.kr:3000/)
+  - Participated in NAVER Connect Foundation Bookathon - (Full Stack) VanillaJS / node.js (http://want-some-taste.o-r.kr:3000/)
 
 #### - 🏹 Postscript
 티스토리 블로그에 많은 것들을 기록하고 있습니다.<br>
