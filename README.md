@@ -27,7 +27,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)<br>
 - 2019.01~12 7th Likelion KyungHee Univ. Student
 - 2019.05 **My Lovely Room**
   - 3rd Prize in 2019 Newbiethon at Google Startup Campus in Seoul - Python / Django
-- 2019.06~09 10 weeks Python Class Teacher with 10 students at KyungHee Univ. Seoul Campus
+- 2019.06~09 '10 weeks Python Class' Teacher with 10 students at KyungHee Univ. Seoul Campus
 - 2019.06 **Alcoholgame**
   - 2nd Prize in 2019 Uselessthon at KyungHee Univ. Space 21 - Python / Django
 - 2019.07~11 **TurningPoint** 
