@@ -47,7 +47,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 - 2021.07~08 NAVER boostcamp 6th Challenge - Web Fullstack Course
 - 2021.08~ NAVER boostcamp 6th Membership - Web Fullstack Course
 - 2021.09 **MatjomBolle**
-  - Participated in NAVER Connect Foundation Bookathon - (Full Stack) VanillaJS / node.js (http://want-some-taste.o-r.kr:3000/)
+  - 1st Prize in NAVER Connect Foundation Bookathon - (Full Stack) VanillaJS / node.js (http://want-some-taste.o-r.kr:3000/)
 
 #### - 🏹 Postscript
 티스토리 블로그에 많은 것들을 기록하고 있습니다.<br>
