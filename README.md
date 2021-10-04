@@ -21,7 +21,7 @@ I'm interested in C++/Python PS, Java/HTML5/CSS3/JS, and Django!
 
 If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 
-👨‍🎓 <b>Kyunghee Univ.</b> Economic(a major) / Computer Engineering(a minor)<br>
+👨‍🎓 <b>Kyungee Univ.</b> Economic(a major) / Computer Engineering(a minor)<br>
 🌱 <b>WEB BACK-END</b> DEVELOPER<br>
 📝 <b>KHU Challengers</b> BACK-END DEVELOPMENT TEAM<br>
 
