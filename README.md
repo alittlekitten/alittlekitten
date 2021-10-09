@@ -40,7 +40,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
   - AI Animalface Test with Google Teachable Machine (https://ssocoanimal.netlify.app/)
 - 2020.09~11 Python Study Group 'Appolpie' Assistant - Python / Jupyter Notebook
 - 2021.01~ Engineering Blog(Korean)
-  - Tistory(main) : https://ssocoit.tistory.com/
+  - Tistory : https://ssocoit.tistory.com/
 - 2021.02~ **KHU Challengers(SuKhu)**
   - (Main : Backend & DB / Sub : Frontend) - Node.js / React.js (TBD)
 - 2021.04~05 NomadCoder VanillaJS Challenge Project
