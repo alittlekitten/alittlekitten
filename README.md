@@ -49,7 +49,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 - 2021.09 **MatjomBolle**
   - 1st Prize in NAVER Connect Foundation Bookathon - (Full Stack) VanillaJS / node.js (http://want-some-taste.o-r.kr:3000/)
 - 2021.10~ **Sooltreaming**
-  - (Main : FullStack) - Node.js / React.js
+  - (Main : FullStack) - Node.js / React.js / MongoDB
 
 #### - 🏹 Postscript
 티스토리 블로그에 많은 것들을 기록하고 있습니다.<br>
