@@ -22,7 +22,7 @@ I'm interested in C++/Python PS, Java/HTML5/CSS3/JS, and Django!
 If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 
 👨‍🎓 <b>Kyungee Univ.</b> Economic(a major) / Computer Engineering(a minor)<br>
-🌱 <b>WEB BACK-END</b> DEVELOPER<br>
+🌱 <b>WEB FRONT-END</b> DEVELOPER<br>
 📝 <b>KHU Challengers</b> BACK-END DEVELOPMENT TEAM<br>
 
 #### - ⚡ Experience
@@ -52,6 +52,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
   - (Main : FullStack) - Node.js / React.js / MongoDB
 
 #### - 🏹 Postscript
+무엇이든 시작하고 배우고 싶어하는 학생입니다.<br>
 티스토리 블로그에 많은 것들을 기록하고 있습니다.<br>
 행복을 주는 개발자가 되고 싶습니다.<br>
 
