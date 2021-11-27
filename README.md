@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Seokho Oh who is currently attending KyungHee Univ.
 
-I'm interested in C++/Python PS, Java/HTML5/CSS3/JS/TS, Node.js/Express/Django!
+I'm interested in C++/Python PS, HTML5/CSS3/JS/TS/Java, Node.js/Express/Django!
 
 If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 
