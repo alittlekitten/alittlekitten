@@ -94,7 +94,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 - 2021.10~12 **Sooltreaming**
   - (Main : FullStack) - Node.js / React.js / MongoDB
 
-#### - 🏹 Postscript
+### - 🏹 Postscript
 
 무엇이든 시작하고 배우고 싶어하는 학생입니다.<br>
 실패를 두려워하지 않습니다.<br>
@@ -102,7 +102,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 티스토리 블로그에 많은 것들을 기록하고 있습니다.<br>
 행복을 주는 개발자가 되고 싶습니다.<br>
 
-#### - 🥜 Algorithm
+### - 🥜 Algorithm
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=evade)](https://solved.ac/evade)
 
