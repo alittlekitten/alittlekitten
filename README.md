@@ -23,6 +23,8 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 🌱 <b>WEB FRONT-END</b> DEVELOPER<br>
 📝 <b>KHU Challengers</b> BACK-END DEVELOPMENT TEAM<br>
 
+---
+
 ### - 🔧 Tools
 
 <div>
@@ -56,6 +58,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
 
+
 #### Studying...
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -65,7 +68,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
   <img src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
 </div>
 
-<br />
+---
 
 ### - ⚡ Experience
 
@@ -88,11 +91,13 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
   - (Main : Backend & DB / Sub : Frontend) - Node.js / React.js (TBD)
 - 2021.04~05 NomadCoder VanillaJS Challenge Project
 - 2021.07~08 NAVER boostcamp 6th Challenge - Web Fullstack Course
-- 2021.08~ NAVER boostcamp 6th Membership - Web Fullstack Course
+- 2021.08~12 NAVER boostcamp 6th Membership - Web Fullstack Course
 - 2021.09 **MatjomBolle**
   - 1st Prize in NAVER Connect Foundation Bookathon - (Full Stack) VanillaJS / node.js (http://want-some-taste.o-r.kr:3000/)
 - 2021.10~12 **Sooltreaming**
   - (Main : FullStack) - Node.js / React.js / MongoDB
+
+---
 
 ### - 🏹 Postscript
 
@@ -101,6 +106,8 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 함께 성장하는 것에 관심이 많습니다.<br>
 티스토리 블로그에 많은 것들을 기록하고 있습니다.<br>
 행복을 주는 개발자가 되고 싶습니다.<br>
+
+---
 
 ### - 🥜 Algorithm
 
