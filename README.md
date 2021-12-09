@@ -23,6 +23,10 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 🌱 <b>WEB FRONT-END</b> DEVELOPER<br>
 📝 <b>KHU Challengers</b> BACK-END DEVELOPMENT TEAM<br>
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:dlscjs8646@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ssoconut) 
+[![Tistory Badge](https://img.shields.io/badge/SsocoIT%20Tistory%20Blog-006400?style=flat&logoColor=white)](https://ssocoit.tistory.com/)
+
 ---
 
 ### - 🔧 Tools
@@ -118,3 +122,5 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falittlekitten&count_bg=%2353A27B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
 </div>
 <hr />
+
+
