@@ -24,7 +24,7 @@ If you contact me, please leave me a message! (dlscjs8646@gmail.com)
 📝 <b>KHU Challengers</b> BACK-END DEVELOPMENT TEAM<br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:dlscjs8646@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ssoconut) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ssoconut/) 
 [![Tistory Badge](https://img.shields.io/badge/SsocoIT%20Tistory%20Blog-006400?style=flat&logoColor=white)](https://ssocoit.tistory.com/)
 
 ---
