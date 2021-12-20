@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Seokho Oh who is currently attending KyungHee Univ.
 
-If you contact me, please leave me a message! (dlscjs8646@gmail.com)
+If you contact me, please click email button and send me an email!
 
 👨‍🎓 <b>KyungHee Univ.</b> Economic(a major) / Computer Engineering(a minor)<br>
 🌱 <b>WEB FRONT-END</b> DEVELOPER<br>
