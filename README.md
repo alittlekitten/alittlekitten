@@ -99,7 +99,7 @@ If you contact me, please click email button and send me an email!
 - 2021.09 **MatjomBolle**
   - 1st Prize in NAVER Connect Foundation Bookathon - (Full Stack) VanillaJS / node.js (http://want-some-taste.o-r.kr/)
 - 2021.10~12 **Sooltreaming**
-  - (Main : FullStack) - Node.js / React.js / MongoDB (https://sooltreaming.kro.kr/ (Pause))
+  - (Main : Full Stack) - Node.js / React.js / MongoDB (https://sooltreaming.kro.kr/ (Pause))
 
 ---
 
