@@ -98,7 +98,7 @@ If you contact me, please click email button and send me an email!
 - 2021.07~08 NAVER boostcamp 6th Challenge - Web Fullstack Course
 - 2021.08~12 NAVER boostcamp 6th Membership - Web Fullstack Course
 - 2021.09 **MatjomBolle**
-  - 1st Prize in NAVER Connect Foundation Bookathon - (Full Stack) VanillaJS / node.js (http://want-some-taste.o-r.kr/)
+  - 1st Prize in NAVER Connect Foundation Bookathon - (Full Stack) VanillaJS / node.js (http://want-some-taste.o-r.kr/ (Pause))
 - 2021.10~12 **Sooltreaming**
   - (Main : Full Stack) - Node.js / React.js / MongoDB (https://sooltreaming.kro.kr/ (Pause))
 - 2022.01~ **ReactStopwatch**
