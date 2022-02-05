@@ -101,7 +101,8 @@ If you contact me, please click email button and send me an email!
   - 1st Prize in NAVER Connect Foundation Bookathon - (Full Stack) VanillaJS / node.js (http://want-some-taste.o-r.kr/)
 - 2021.10~12 **Sooltreaming**
   - (Main : Full Stack) - Node.js / React.js / MongoDB (https://sooltreaming.kro.kr/ (Pause))
-
+- 2022.01~ **reactStopwatch**
+  - React.js - Timer & Stopwatch Web Application (https://github.com/alittlekitten/reactStopwatch)
 ---
 
 ### - 🏹 Postscript
