@@ -102,7 +102,7 @@ If you contact me, please click email button and send me an email!
 - 2021.10~12 **Sooltreaming**
   - (Main : Full Stack) - Node.js / React.js / MongoDB (https://sooltreaming.herokuapp.com/)
 - 2022.01~ **ReactStopwatch**
-  - React.js - Timer & Stopwatch Web Application (https://github.com/alittlekitten/reactStopwatch)
+  - React.js - Timer & Stopwatch Web Application (https://alittlekitten.github.io/reactStopwatch/)
 ---
 
 ### - 🏹 Postscript
