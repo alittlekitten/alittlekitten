@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Seokho Oh who is currently attending KyungHee Univ.
+I'm Seokho Oh who graduated from KyungHee Univ.
 
 If you contact me, please click email button and send me an email!
 
@@ -101,6 +101,7 @@ If you contact me, please click email button and send me an email!
   - 1st Prize in NAVER Connect Foundation Bookathon - (Full Stack) VanillaJS / node.js (http://want-some-taste.o-r.kr/ (Pause))
 - 2021.10~12 **Sooltreaming**
   - (Main : Full Stack) - Node.js / React.js / MongoDB (https://sooltreaming.herokuapp.com/)
+- 2022.01~ SSAFY 7th Seoul Campus - Java track
 - 2022.01~ **SsocoTimer**
   - React.js - Timer & Stopwatch Web Application (https://alittlekitten.github.io/SsocoTimer/)
 ---
