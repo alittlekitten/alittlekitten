@@ -94,7 +94,7 @@ If you contact me, please click email button and send me an email!
   - Tistory : https://ssocoit.tistory.com/
 - 2021.02~ **KHU Challengers(SuKhu)**
   - (Main : Backend & DB / Sub : Frontend) - Node.js / React.js (TBD)
-- 2021.04~05 NomadCoder VanillaJS Challenge Project
+- 2021.04~05 NomadCoder VanillaJS Challenge Project ()
 - 2021.07~08 NAVER boostcamp 6th Challenge - Web Fullstack Course
 - 2021.08~12 NAVER boostcamp 6th Membership - Web Fullstack Course
 - 2021.09 **MatjomBolle**
