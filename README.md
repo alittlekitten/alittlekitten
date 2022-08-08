@@ -105,7 +105,7 @@ If you contact me, please click email button and send me an email!
 - 2022.01~ **`SsocoTimer`**
   - React.js - Timer & Stopwatch Web Application (https://alittlekitten.github.io/SsocoTimer/)
 - 2022.07~ **`PingPongClass`**
-  - React.js, Java, MySQL
+  - React.js, Java, MySQL [Frontend]
 ---
 
 ### - 🏹 Postscript
