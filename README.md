@@ -106,7 +106,7 @@ If you contact me, please click email button and send me an email!
 - 2022.01~ **`SsocoTimer`**
   - React.js - Timer & Stopwatch Web Application (https://alittlekitten.github.io/SsocoTimer/)
 - 2022.07~08 **`PingPongClass`**
-  - 1st Prize in Seoul Campus - React.js / Spring Boot / MySQL (Main: Frontend, WebRTC / Sub: Backend)
+  - 1st Prize in SSAFY Seoul Campus (Common Project) - React.js / Spring Boot / MySQL (Main: Frontend, WebRTC / Sub: Backend)
 - 2022.08~10 **`ImTeller`**
   - Spring Boot / MySQL / React.js (Main: Backend, Server)
 ---
