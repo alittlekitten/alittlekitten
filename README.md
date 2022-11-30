@@ -110,7 +110,7 @@ If you contact me, please click email button and send me an email!
 - 2022.08~10 **`ImTeller`**
   - Spring Boot / MySQL / React.js / TypeScript (Main: Backend / Sub: Frontend, Server)
 - 2022.10~ **`FlowerBada`**
-  - Spring Boot / MySQL / React.js / TypeScript (Main: Server / Sub: Backend, Frontend)
+  - 1st Prize in SSAFY Seoul Campus (Free Project) - Spring Boot / MySQL / React.js / TypeScript (Main: Server / Sub: Backend, Frontend)
 ---
 
 ### - 🏹 Postscript
