@@ -21,7 +21,6 @@ If you contact me, please click email button and send me an email!
 
 👨‍🎓 <b>KyungHee Univ.</b> Economic(a major) / Computer Engineering(a minor)<br>
 🌱 <b>WEB FRONT-END</b> DEVELOPER<br>
-📝 <b>KHU Challengers</b> BACK-END DEVELOPMENT TEAM<br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:dlscjs8646@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ssoconut/) 
