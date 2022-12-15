@@ -101,7 +101,7 @@ If you contact me, please click email button and send me an email!
 - 2021.09 **`MatjomBolle`**
   - 1st Prize in NAVER Connect Foundation Bookathon - (Full Stack) VanillaJS / node.js (http://want-some-taste.o-r.kr/ (Pause))
 - 2021.10~12 **`Sooltreaming`**
-  - (Main : Full Stack) - Node.js / React.js / MongoDB (https://sooltreaming.herokuapp.com/)
+  - (Main : Full Stack) - Node.js / React.js / MongoDB (https://sooltreaming.herokuapp.com/ (Pause))
 - 2022.01~ SAMSUNG Software Academy For Youth(SSAFY) 7th Seoul Campus - Java track
 - 2022.01~ **`SsocoTimer`**
   - React.js - Timer & Stopwatch Web Application (https://alittlekitten.github.io/SsocoTimer/)
