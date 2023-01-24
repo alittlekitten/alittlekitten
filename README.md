@@ -77,6 +77,7 @@ If you contact me, please click email button and send me an email!
 ### - ✈ Career
 - 2023.01~ N Tech Service UI Tech Internship
 
+---
 ### - ⚡ Experience
 
 - 2019.01~12 7th Likelion KyungHee Univ. Student
