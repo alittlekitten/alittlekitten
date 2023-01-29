@@ -75,7 +75,7 @@ If you contact me, please click email button and send me an email!
 
 ---
 ### - ✈ Career
-- 2023.01~ N Tech Service UI Tech Internship
+- 2023.01 N Tech Service UI Tech Internship
 
 ---
 ### - ⚡ Experience
