@@ -20,7 +20,7 @@ I'm Seokho Oh who graduated from KyungHee Univ.
 If you contact me, please click email button and send me an email!
 
 👨‍🎓 <b>KyungHee Univ.</b> Economic(a major) / Computer Engineering(a minor)<br>
-🌱 <b>WEB FRONT-END</b> DEVELOPER<br>
+🌱 <b>WEB FRONT-END & ANDROID</b> DEVELOPER<br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:dlscjs8646@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ssoconut/) 
@@ -76,6 +76,7 @@ If you contact me, please click email button and send me an email!
 ---
 ### - ✈ Career
 - 2023.01 N Tech Service UI Tech Internship
+- 2023.02~ KakaoMobility Android-platform Team (T-part Android)
 
 ---
 ### - ⚡ Experience
