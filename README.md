@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Seokho Oh who graduated from KyungHee University and is attending from Korea National Open University.
+I'm Seokho Oh who graduated from KyungHee University and is attending Korea National Open University.
 
 If you contact me, please click email button and send me an email!
 
