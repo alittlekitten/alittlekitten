@@ -114,9 +114,9 @@ If you contact me, please click email button and send me an email!
 - 2022.07~08 **`PingPongClass`**
   - 1st Prize in SSAFY Seoul Campus (Common Project) - React.js / Spring Boot / MySQL / TypeScript (Main: Frontend, WebRTC / Sub: Backend)
 - 2022.08~10 **`ImTeller`**
-  - Spring Boot / MySQL / React.js / TypeScript (Main: Backend / Sub: Frontend, Server)
+  - Spring Boot / MySQL / React.js / TypeScript (Main: Backend / Sub: Frontend, CI/CD)
 - 2022.10~2023.01 **`FlowerBada`**
-  - 1st Prize in SSAFY Seoul Campus (Free Project) - Spring Boot / MySQL / React.js / TypeScript (Main: Server / Sub: Backend, Frontend)
+  - 1st Prize in SSAFY Seoul Campus (Free Project) - Spring Boot / MySQL / React.js / TypeScript (Main: CI/CD, Frontend / Sub: Backend)
 ---
 
 ### - 🏹 Postscript
