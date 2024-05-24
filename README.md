@@ -79,7 +79,8 @@ If you contact me, please click email button and send me an email!
 ---
 ### - ✈ Career
 - 2023.01 N Tech Service UI Tech Internship
-- 2023.02~ KakaoMobility Android-platform Team (T-part Android)
+- 2023.02~2024.05 KakaoMobility Android-platform Team (T-part Android)
+- 2024.05~ KakaoMobility Client Development Section (Android Picker part)
 
 ---
 ### - ⚡ Experience
