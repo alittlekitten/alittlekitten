@@ -121,7 +121,7 @@ If you contact me, please click email button and send me an email!
 - 2023.11 **`Future-ai`**
   - Participated in KakaoMobility In-house AI Hackerthon Project
   - MS Azure - OpenAI / GPT-4 / React.js
-- 2024.06 **; Drop Table**
+- 2024.06 **`; Drop Table`**
   - 1st Prize in KakaoMobility In-house Security Hacking Contest
 ---
 
