@@ -118,6 +118,11 @@ If you contact me, please click email button and send me an email!
   - Spring Boot / MySQL / React.js / TypeScript (Main: Backend / Sub: Frontend, CI/CD)
 - 2022.10~2023.01 **`FlowerBada`**
   - 1st Prize in SSAFY Seoul Campus (Free Project) - Spring Boot / MySQL / React.js / TypeScript (Main: CI/CD, Frontend / Sub: Backend)
+- 2023.11 **`Future-ai`**
+  - Participated in KakaoMobility In-house AI Hackerthon Project
+  - MS Azure - OpenAI / GPT-4 / React.js
+- 2024.06 **; Drop Table**
+  - 1st Prize in KakaoMobility In-house Security Hacking Contest
 ---
 
 ### - 🏹 Postscript
