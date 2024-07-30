@@ -122,7 +122,7 @@ If you contact me, please click email button and send me an email!
   - Participated in KakaoMobility In-house AI Hackerthon Project
   - MS Azure - OpenAI / GPT-4 / React.js
 - 2024.06 **`; Drop Table`**
-  - 1st Prize in KakaoMobility In-house Security Hacking Contest
+  - 1st Prize in KakaoMobility CTF (In-house Security Hacking Contest)
 ---
 
 ### - 🏹 Postscript
