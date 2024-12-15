@@ -84,7 +84,7 @@ If you contact me, please click email button and send me an email!
 
 ---
 ### - ⚡ Experience
-
+- 2015.09~12 KyungHee Univ. Programming Club **`Codrug`** - Ruby / Ruby on Rails
 - 2019.01~12 7th Likelion KyungHee Univ. Student
 - 2019.05 **`My Lovely Room`**
   - 3rd Prize in 2019 Newbiethon at Google Startup Campus in Seoul - Python / Django
