@@ -84,32 +84,38 @@ If you contact me, please click email button and send me an email!
 
 ---
 ### - ⚡ Experience
+<details>
+  <summary>Club Activity</summary>
 - 2015.09~12 KyungHee Univ. Programming Club **`Codrug`** - Ruby / Ruby on Rails
 - 2019.01~12 7th Likelion KyungHee Univ. Student
+- 2019.06~09 **`10 weeks Python Class`** Teacher with 10 students at KyungHee Univ. Seoul Campus
+- 2020.01~12 8th Likelion KyungHee Univ. Development & Teaching Staff
+- 2020.09~11 Python Study Group **`Appolpie`** Assistant - Python / Jupyter Notebook
+- 2021.04~05 NomadCoder VanillaJS Challenge Project
+- 2021.07~08 NAVER boostcamp 6th Challenge - Web Fullstack Course
+- 2021.08~12 NAVER boostcamp 6th Membership - Web Fullstack Course
+- 2022.01~12 SAMSUNG Software Academy For Youth(SSAFY) 7th Seoul Campus - Java track
+</details>
+
+<details>
+  <summary>Side Project</summary>
 - 2019.05 **`My Lovely Room`**
   - 3rd Prize in 2019 Newbiethon at Google Startup Campus in Seoul - Python / Django
-- 2019.06~09 **`10 weeks Python Class`** Teacher with 10 students at KyungHee Univ. Seoul Campus
 - 2019.06 **`Alcoholgame`**
   - 2nd Prize in 2019 Uselessthon at KyungHee Univ. Space 21 - Python / Django
 - 2019.07~11 **`TurningPoint`**
   - Participated in Likelion 7th Official Hackerthon
   - 4th Prize in 2019 Start Up The Dream - Python / Django
-- 2020.01~12 8th Likelion KyungHee Univ. Development & Teaching Staff
 - 2020.08 **`Ssocoanimal`**
   - AI Animalface Test with Google Teachable Machine (https://ssocoanimal.netlify.app/)
-- 2020.09~11 Python Study Group **`Appolpie`** Assistant - Python / Jupyter Notebook
 - 2021.01~ Engineering Blog(Korean)
   - Tistory : https://ssocoit.tistory.com/
 - 2021.02~ **`KHU Challengers(SuKhu)`**
   - (Main : Backend & DB / Sub : Frontend) - Node.js / React.js (TBD)
-- 2021.04~05 NomadCoder VanillaJS Challenge Project
-- 2021.07~08 NAVER boostcamp 6th Challenge - Web Fullstack Course
-- 2021.08~12 NAVER boostcamp 6th Membership - Web Fullstack Course
 - 2021.09 **`MatjomBolle`**
   - 1st Prize in NAVER Connect Foundation Bookathon - (Full Stack) VanillaJS / node.js (http://want-some-taste.o-r.kr/ (Pause))
 - 2021.10~12 **`Sooltreaming`**
   - (Main : Full Stack) - Node.js / React.js / MongoDB (https://sooltreaming.herokuapp.com/ (Pause))
-- 2022.01~12 SAMSUNG Software Academy For Youth(SSAFY) 7th Seoul Campus - Java track
 - 2022.01~ **`SsocoTimer`**
   - React.js - Timer & Stopwatch Web Application (https://alittlekitten.github.io/SsocoTimer/)
 - 2022.07~08 **`PingPongClass`**
@@ -123,6 +129,8 @@ If you contact me, please click email button and send me an email!
   - MS Azure - OpenAI / GPT-4 / React.js
 - 2024.06 **`; Drop Table`**
   - 1st Prize in KakaoMobility CTF (In-house Security Hacking Contest)
+</details>
+
 ---
 
 ### - 🏹 Postscript
