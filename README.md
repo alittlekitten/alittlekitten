@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Seokho Oh who graduated from KyungHee University and is attending Korea National Open University.
 
-If you contact me, please click email button and send me an email!
+If you want to contact me, please click email button and send me an email!
 
 👨‍🎓 <b>KyungHee Univ.</b> Economic(a major) / Computer Engineering(a minor)<br>
 🏫 <b>Korea National Open Univ.</b> Computer Science<br>
