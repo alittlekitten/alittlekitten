@@ -127,6 +127,6 @@ If you want to contact me, please click email button and send me an email!
 
 <hr />
 <div align="center">
-  <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Falittlekitten?color=yellow&label=hits&size=small" alt="hits" /></a>
+ <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Falittlekitten?color=green&label=hits&size=small" alt="hits" /></a>
 </div>
 <hr />
