@@ -70,6 +70,7 @@ If you want to contact me, please click email button and send me an email!
 - 2021.08~12 NAVER boostcamp 6th Membership - Web Fullstack Course
 - 2022.01~12 SAMSUNG Software Academy For Youth(SSAFY) 7th Seoul Campus - Java track
 - 2024.09 SSAFYnity Job Search Challenge 1st - Mentor
+- 2025.05~06 NAVER boostcamp 10th Basic(Approach of a program completer) - Web Fullstack Course
 </details>
 
 <details>
