@@ -20,7 +20,7 @@ I'm Seokho Oh who graduated from KyungHee University and is attending Korea Nati
 If you want to contact me, please click email button and send me an email!
 
 👨‍🎓 <b>KyungHee Univ.</b> Economic(a major) / Computer Engineering(a minor)<br>
-🏫 <b>Korea National Open Univ.</b> Computer Science<br>
+🏫 <b>Korea National Open Univ.</b> Computer Science / Law<br>
 🌱 <b>WEB FRONT-END & ANDROID</b> DEVELOPER<br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:dlscjs8646@gmail.com) 
