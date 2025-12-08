@@ -108,6 +108,8 @@ If you want to contact me, please click email button and send me an email!
   - MS Azure - OpenAI / GPT-4 / React.js
 - 2024.06 **`; Drop Table`**
   - 1st Prize in KakaoMobility CTF (In-house Security Hacking Contest)
+- 2025.12 **`Excel Ontology Saas Tool`**
+  - 3rd Prize in KakaoMobility In-house AI Hackerthon Project (Kamothon)
 </details>
 
 ---
