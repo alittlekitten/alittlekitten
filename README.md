@@ -120,7 +120,7 @@ If you want to contact me, please click email button and send me an email!
 실패를 두려워하지 않습니다.<br>
 함께 성장하는 것에 관심이 많습니다.<br>
 티스토리 블로그에 많은 것들을 기록하고 있습니다.<br>
-행복을 주는 개발자가 되고 싶습니다.<br>
+누군가에게 꼭 필요한 행복을 가져다줄 수 있는 무언가를 만드는 개발자가 되고 싶습니다.<br>
 
 ---
 
